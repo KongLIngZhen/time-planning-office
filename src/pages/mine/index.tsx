@@ -17,7 +17,7 @@ export default class Index extends Component {
   render () {
     return (
       <View className='index'>
-        <Text>我的小程序</Text>
+        <Text>我的小程序 </Text>
       </View>
     )
   }
