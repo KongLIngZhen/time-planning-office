@@ -380,9 +380,9 @@ module.exports = function(module) {
   !*** ./src/app.scss ***!
   \**********************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-throw new Error("Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):\nModuleBuildError: Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\nError: ENOENT: no such file or directory, open '/Users/konglingzhen/Desktop/WorkSpace/time-planning-office/src/app.scss'\n    at /Users/konglingzhen/Desktop/WorkSpace/time-planning-office/node_modules/webpack/lib/NormalModule.js:316:20\n    at /Users/konglingzhen/Desktop/WorkSpace/time-planning-office/node_modules/loader-runner/lib/LoaderRunner.js:367:11\n    at Array.<anonymous> (/Users/konglingzhen/Desktop/WorkSpace/time-planning-office/node_modules/loader-runner/lib/LoaderRunner.js:203:19)\n    at Storage.finished (/Users/konglingzhen/Desktop/WorkSpace/time-planning-office/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:55:16)\n    at ReadFileContext.<anonymous> (/Users/konglingzhen/Desktop/WorkSpace/time-planning-office/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:91:9)\n    at ReadFileContext.callback (/Users/konglingzhen/Desktop/WorkSpace/time-planning-office/node_modules/graceful-fs/graceful-fs.js:123:16)\n    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:273:13)");
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 
